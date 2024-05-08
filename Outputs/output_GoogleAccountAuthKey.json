@@ -1,0 +1,31 @@
+{
+  "accepter": [
+    "GoogleAccountAuthKey"
+  ],
+  "api_processing_error": "",
+  "api_processing_result": true,
+  "api_schema": "DPFMGoogleAccountAuthKeyRequests",
+  "api_status_code": 200,
+  "api_type": "requests",
+  "business_partner": null,
+  "connection_key": "response",
+  "deleted": false,
+  "exconf_error": "",
+  "exconf_result": null,
+  "filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+  "message": {
+    "GoogleAccountAuthKey": [
+      {
+        "URL": "https://oauth2.googleapis.com/token?client_id=\u0026client_secret=\u0026code=XXXXXXXXXXXXXXX\u0026redirect_uri=\u0026scope=openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email\u0026grant_type=authorization_code"
+      }
+    ]
+  },
+  "redis_key": "abcdefg",
+  "runtime_session_id": "boi9ar543dg91ipdnspi099u231280ab0v8af0ew",
+  "service_label": "GOOGLE_ACCOUNT_AUTH_KEY",
+  "sql_update_error": "",
+  "sql_update_result": null,
+  "subfunc_error": "",
+  "subfunc_result": null,
+  "time_stamp": "2024/04/15 14:27:27"
+}
